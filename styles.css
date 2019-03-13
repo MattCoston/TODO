@@ -1,0 +1,12 @@
+* {
+    text-decoration: none;
+    background-color: aqua;
+}
+
+.todo {
+    color: red;
+}
+p {
+    border: solid 5px red;
+}
+
